@@ -1,0 +1,2 @@
+DROP TABLE IF EXISTS deploys CASCADE;
+DROP TYPE deploy_status;
